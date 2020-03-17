@@ -1,0 +1,11 @@
+title: Kshitij Gang # your name (or website title) here
+logo: "https://image3.mouthshut.com/images/Restaurant/Photo/-87471_155432.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Student at IIT Delhi (2019 - Present)
+  <br><br>
+    <b>Email</b> : me1190807@iitd.ac.in
+  <br>
+    <a href="https://www.linkedin.com/in/kshitij-gang-ba6639191/">LinkedIn</a> 
+  
+  
+theme: jekyll-theme-minimal
