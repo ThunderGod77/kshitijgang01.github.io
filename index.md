@@ -19,7 +19,7 @@
 <img src="images/ty.png?raw=true"/>
 <img src="images/uy.png?raw=true"/>
 
-Web app developed on flask and jikapy API,it is based on anime.It provides information about different genre and trending anime.Also along with it has search and random anime & manga generation functionality. <br>
+Web app developed on flask and jikapy API,it is based on anime.It provides information about different genre and trending anime.Also, along with it has search and random anime & manga generation functionality. <br>
 
 
 
