@@ -20,6 +20,16 @@
 <img src="images/uy.png?raw=true"/>
 
 Web app developed on flask and jikapy API.It provides information about different genres and trending anime.Also, along with it has search and random anime & manga generation functionality. <br>
+---
+<b>Prof_Rate-Ratings app</b><br>
+[Code](https://github.com/kshitijgang01/django_1)
+&nbsp;
+<br><br>
+<img src="images/home.png?raw=true"/>
+<img src="images/course.png?raw=true"/>
+<img src="images/rating.png?raw=true"/>
+
+Django web app developed to store information about various professors and courses.Users can rate and review the professors and the courses.Guest users can still view all the information, but cannot rate or review.Also there is a forum and complaints page(to report a user).Additionally admin has the power to block  users who violate the code of conduct and it  also verifies user's email id on registration .  <br>
 
 
 
